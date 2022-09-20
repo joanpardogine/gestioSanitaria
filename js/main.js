@@ -151,6 +151,9 @@ function mostraGestioMalaties(objecte) {
       mostraMissatge(0);
 }
 
+function mostraNotFound(){
+      mostraMissatge(0);
+}
 
 
 function mostraGestioHospital(objecte) {
